@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">zzzzzTryAudioFocus</string>
+    <string name="get_audio_focus">音声フォーカスを取得</string>
+</resources>
